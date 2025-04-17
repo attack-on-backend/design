@@ -1,13 +1,4 @@
-# 六大原则
-
-
-
-
-
-
-
-
-<extoc></extoc>
+# Attack on Design - 六大原则 🪼
 
 ## 前言
 
