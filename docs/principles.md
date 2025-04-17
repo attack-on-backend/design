@@ -66,4 +66,4 @@ You Ain't Gonna Need It, YAGNI
 
 **迪米特法则的目的是让我们实现代码的 "高内聚、低耦合"**
 
-[六大原则细致版](/docs/six-principles.md)
+[六大原则详细版](/six-principles.md)
